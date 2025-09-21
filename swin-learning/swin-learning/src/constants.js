@@ -1,0 +1,1 @@
+export const API_BASE_URL = "https://2behmsvo35.execute-api.ap-southeast-5.amazonaws.com/production"
